@@ -6,8 +6,11 @@ The goal is to predict whether a customer will subscribe to a service based on t
 📂 Dataset
 
 Source: Bank Marketing Dataset (OpenML)
+
 Target Variable: y (Subscription: yes/no)
+
 Contains both numerical and categorical columns
+
 
 🧹 Data Preprocessing
 
